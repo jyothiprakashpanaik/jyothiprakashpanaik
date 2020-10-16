@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Data Science & web-dev
 - 🤔 I’m looking for help with ... Data Science & web-dev
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [website](https://jyothiprakashpanaik.github.io/porfolio/)
+- 📫 How to reach me: ... [website](https://jyothiprakashpanaik.github.io/porfolio/), [linkdin](https://www.linkedin.com/in/jyothiprakash-patnaikuni-5b070a1aa/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im half Finished
 
