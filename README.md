@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [website](https://jyothiprakashpanaik.github.io/porfolio/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im half Finished
--->
+
